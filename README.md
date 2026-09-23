@@ -1,4 +1,4 @@
-# no itck cnt — deployment guide
+# cash no tik cnt — deployment guide
 
 This folder is a complete, ready-to-publish static site: `index.html`, `favicon.svg`,
 `robots.txt`. No build step, no server required.
@@ -45,7 +45,7 @@ site. Say yes, accept the default publish directory (`.`).
 ```
 git init
 git add .
-git commit -m "no itck cnt — initial site"
+git commit -m "cash no tik cnt — initial site"
 git branch -M main
 git remote add origin <your-empty-github-repo-url>
 git push -u origin main
